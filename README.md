@@ -14,7 +14,7 @@ pip3 install quoridor
 ## Use
 To launch a server:
 ```bash
-python3 -m quoridor.server [HOST] [PORT] [NUM_PLAYERS]
+python3 -m quoridor.server [HOST] [PORT]
 ```
 - HOST: IP address
 - PORT: port number
