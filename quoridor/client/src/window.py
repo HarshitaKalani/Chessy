@@ -32,8 +32,8 @@ class Window:
         self.button_quit = Button("Quit", self.side_board + 60,
                                   self.side_board - 50, Colors.red)
         self.buttons = [self.button_restart, self.button_quit]
-        self.title = Text("Quoridor", Colors.black, size=50)
-        self.info = Text("Welcome to Quoridor Online!", Colors.black, size=45)
+        self.title = Text("Chessy", Colors.black, size=50)
+        self.info = Text("Welcome to Chessy Online!", Colors.black, size=45)
         self.coords = Coords(self)
 
     def update_info(self, text, color=None):
