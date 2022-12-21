@@ -1,9 +1,4 @@
-"""
-Quoridor Online
-Quentin Deschamps, 2020
-"""
-
-
+# Description: Colors RGB
 class Colors:
     """Colors RGB"""
     red = (204, 78, 60)

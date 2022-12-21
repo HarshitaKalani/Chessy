@@ -1,7 +1,3 @@
-"""
-Quoridor Online
-Quentin Deschamps, 2020
-"""
 import pygame
 from quoridor.client.src.window import pos_in_rect
 from quoridor.client.src.colors import Colors

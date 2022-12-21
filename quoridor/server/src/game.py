@@ -1,8 +1,3 @@
-"""
-Quoridor Online
-Quentin Deschamps, 2020
-"""
-
 
 class Game:
     """Create a game"""

@@ -1,7 +1,4 @@
-"""
-Quoridor Online
-Quentin Deschamps, 2020
-"""
+
 import pygame
 from quoridor.client.src.colors import Colors
 from quoridor.client.src.widgets import Text, Button

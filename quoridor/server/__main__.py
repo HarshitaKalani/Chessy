@@ -1,7 +1,3 @@
-"""
-Quoridor Online
-Quentin Deschamps, 2020
-"""
 import sys
 import socket
 from _thread import start_new_thread

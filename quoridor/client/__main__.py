@@ -1,7 +1,3 @@
-"""
-Quoridor Online
-Quentin Deschamps, 2020
-"""
 import sys
 import os
 import pygame
@@ -15,7 +11,7 @@ from quoridor.client.src.sounds import Sounds
 
 def client(host, port):
     """Game client"""
-    print("Welcome to Quoridor Online!")
+    print("Welcome to Chessy!")
     print("Host:", host)
     print("Port:", port)
     # Name input

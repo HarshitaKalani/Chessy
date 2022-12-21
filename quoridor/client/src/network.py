@@ -1,7 +1,4 @@
-"""
-Quoridor Online
-Quentin Deschamps, 2020
-"""
+
 import socket
 import pickle
 

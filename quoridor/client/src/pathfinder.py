@@ -1,7 +1,3 @@
-"""
-Quoridor Online
-Quentin Deschamps, 2020
-"""
 from pathfinding.core.grid import Grid
 from pathfinding.finder.a_star import AStarFinder
 
