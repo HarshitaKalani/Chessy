@@ -1,3 +1,7 @@
+"""
+Quoridor Online
+Quentin Deschamps, 2020
+"""
 import sys
 import socket
 from _thread import start_new_thread
@@ -58,13 +62,13 @@ def server(host, port, nb_players):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 4:
+    if len(sys.argv) != 3:
         print("Not enough arguments")
         print("[Host address] [Port number] [Number of players]")
     else:
         host = str(sys.argv[1])
         port = int(sys.argv[2])
-        nb_players = int(sys.argv[3])
+        nb_players = 2
         if nb_players not in [2, 3, 4]:
             print("Only for 2, 3 or 4 players")
         else:
