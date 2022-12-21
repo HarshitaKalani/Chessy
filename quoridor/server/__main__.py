@@ -62,15 +62,15 @@ def server(host, port, nb_players):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 3:
+    if len(sys.argv) != 2:
         print("Not enough arguments")
-        print("[Host address] [Port number] [Number of players]")
+        print("[Host address] [Port number]")
     else:
         host = str(sys.argv[1])
         port = int(sys.argv[2])
         nb_players = 2
-        if nb_players not in [2, 3, 4]:
-            print("Only for 2, 3 or 4 players")
+        if nb_players not in [2]:
+            print("Only for 2 players")
         else:
             server(host, port, nb_players)
 
