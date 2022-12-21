@@ -1,6 +1,6 @@
-# Quoridor Online
+# Chessy
 
-Client and server to play the strategy board game **Quoridor**. It uses [pygame](https://www.pygame.org/news).
+Client and server to play the strategy board game **Chessy**. It uses [pygame](https://www.pygame.org/news).
 
 ![](https://github.com/Quentin18/Quoridor-Online/blob/master/img/capture.png)
 
