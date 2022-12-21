@@ -18,7 +18,6 @@ python3 -m quoridor.server [HOST] [PORT]
 ```
 - HOST: IP address
 - PORT: port number
-- NUM_PLAYERS: number of players (2, 3 or 4)
 
 To launch a client:
 ```bash
