@@ -36,8 +36,11 @@ At the end of the game, you can restart a game. Just click on the "Restart" butt
 ## Pathfinding algorithm
 A pathfinding algorithm is used to check if a player is blocked or not. Thanks to the [python-pathfinding](https://github.com/brean/python-pathfinding) project.
 
-## Contact
-Quentin Deschamps: quentindeschamps18@gmail.com
+## Team
+Ayush Abrol 
+Harshita Kalani
+Kaustabh Mishra
+Saurabh Kumar
+Soham Pandya
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+
